@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dlw7b20k0065334l?svg=true)](https://ci.appveyor.com/project/OksanaBannova/events-state)
+
 Портфолио с фильтрами
 ===
 
